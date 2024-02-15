@@ -104,7 +104,6 @@ public class Originalcode {
 
 		driver.close();
 		
-		System.out.println("Original code just practicing GIT");
 	}
 
 }
